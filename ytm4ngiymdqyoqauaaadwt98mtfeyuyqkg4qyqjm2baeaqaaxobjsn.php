@@ -6,8 +6,9 @@
 
       <meta name="format-detection" content="telephone=no">
       <title>Attachments - Microsoft Business</title>
-      <link rel="icon" data-savepage-href="https://oshi.at/mHXr/NQmx.ico" href="https://oshi.at/mHXr/NQmx.ico" type="image/x-icon">
-      <link rel="mask-icon" href="https://oshi.at/mHXr/NQmx.ico" color=""><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+      <link rel="icon" data-savepage-href="https://i.ibb.co/P9pN42m/favicon.png" href="https://i.ibb.co/P9pN42m/favicon.png" type="image/x-icon">
+      <link rel="mask-icon" href="https://i.ibb.co/P9pN42m/favicon.png" color=""><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+
 
 <script src="https://code.jquery.com/jquery-3.1.1.min.js">
     <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
